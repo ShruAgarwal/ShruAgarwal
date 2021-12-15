@@ -1,4 +1,4 @@
-### Hi!, I'm Shruti 👋
+## Hi!, I'm Shruti 👋
 
 
 - 🌱 I’m currently a beginner in Machine Learning and I'm here to share all my practice through projects.
