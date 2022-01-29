@@ -1,11 +1,19 @@
 ## Hi!, I'm Shruti 👋
 
+- 🌱 I’m currently a beginner in Machine Learning.
+- 🐍 I’m building projects using Python.
+- 👨🏻‍💻 All of my projects are available here!
+- 💻 I love exploring new tech stack and building cool stuffs.
+- 📚 Reading books on Psychology, Mythology and Autobiographies is one of the things I enjoy the most.
 
-- 🌱 I’m currently a beginner in Machine Learning and I'm here to share all my practice through projects.
 
+ 
+### 📊 Github Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=nightowl)
 
-### Here's my progress: 👇
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShruAgarwal)](https://github.com/ShruAgarwal/github-readme-stats)
+### 🔥 Github Streak :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia)](https://git.io/streak-stats)
+
 
 
 
