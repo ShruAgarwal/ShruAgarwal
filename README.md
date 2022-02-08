@@ -4,7 +4,7 @@
 - 🐍 I’m building projects using Python.
 - 👨🏻‍💻 All of my projects are available here!
 - 💻 I love exploring new tech stack and building cool stuffs.
-- 📚 Reading books on Psychology, Mythology and Autobiographies is one of the things I enjoy the most.
+- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most.
 
 
  
