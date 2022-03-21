@@ -15,7 +15,7 @@
 
 ### ⚡ Github :
 <a href="https://github.com/ShruAgarwal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=aura&show_icons=true)" />
 </a>
 <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
@@ -80,4 +80,4 @@
 
 
 ### 📈 Activity Graph :
-![image](https://activity-graph.herokuapp.com/graph?username=ShruAgarwal&theme=minimal)
+[![Shruti's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShruAgarwal&theme=redical)](https://github.com/ShruAgarwal/github-readme-activity-graph)
