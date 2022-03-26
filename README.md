@@ -14,13 +14,14 @@
 
 
 ### ⚡ Github :
+<p align="center">
 <a href="https://github.com/ShruAgarwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true)" />
 </a>
 <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
 </a>
-
+</p>
 
 ### 🏫 Learning Platforms :
 <a href="https://github.com/ShruAgarwal/img-shields-io">
