@@ -4,7 +4,9 @@
 - 🐍 I’m building projects using Python.
 - 👨🏻‍💻 All of my projects are available here!
 - 💻 I love exploring new tech stack and building cool stuffs.
-- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most.
+- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
+ 
+     Here's my [list](https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a) of Books I've read so far!
 
 
 ![](https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
