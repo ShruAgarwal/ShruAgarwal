@@ -19,7 +19,7 @@
 ### ⚡ Github :
 <p align="center">
 <a href="https://github.com/ShruAgarwal/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
 </a>
 <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
@@ -41,17 +41,15 @@
 </a>
 
 
-### 👩‍💻 IDEs :
+### Language, Tools & Productivity:
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-</a>
-
-### Language & Productivity:
-<a href="https://github.com/ShruAgarwal/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
