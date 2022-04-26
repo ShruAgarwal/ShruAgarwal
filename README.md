@@ -17,12 +17,12 @@
 
 
 ### ⚡ Github :
-<p align="left">
+<p align="center">
 <a href="https://github.com/ShruAgarwal/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true)" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
 </a>
 <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
 </a>
 </p>
 
