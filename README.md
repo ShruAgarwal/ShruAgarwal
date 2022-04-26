@@ -4,6 +4,7 @@
 - 🐍 I’m building projects using Python.
 - 👨🏻‍💻 All of my projects are available here!
 - 💻 I love exploring new tech stack and building cool stuffs.
+- 🚀 Learning about Open Source and trying to contribute as well!
 - 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
  
      Here's my [list](https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a) of Books I've read so far!
@@ -16,12 +17,12 @@
 
 
 ### ⚡ Github :
-<p align="center">
+<p align="left">
 <a href="https://github.com/ShruAgarwal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true)" />
 </a>
 <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
 </a>
 </p>
 
