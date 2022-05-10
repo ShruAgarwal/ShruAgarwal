@@ -43,6 +43,8 @@
 
 
 ### Language, Tools & Productivity:
+<!--<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python" alt="python"/>-->
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </a>
