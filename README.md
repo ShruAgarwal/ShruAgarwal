@@ -1,17 +1,21 @@
 ## Hi!, I'm Shruti 👋
+<p>
+ <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+ <img src="https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge" />
+</p>
 
+<img align="right" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350">
 
-- 🌱 I’m currently a beginner in Machine Learning.
-- 🐍 I’m building projects using Python.
-- 👨🏻‍💻 All of my projects are available here!
+- 🌱 I’m currently learning about Machine Learning.
+- 🐍 Building projects using Python and side-projects using ML
 - 💻 I love exploring new tech stack and building cool stuffs.
 - 🚀 Learning about Open Source and trying to contribute as well!
 - 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
- 
 
 
-![](https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
+<br clear="right"/>
 
+<h2 align="center">📬 Connect with me </h2>
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
   <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" width="50" />
