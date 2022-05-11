@@ -11,7 +11,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shru_explores)
 
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
