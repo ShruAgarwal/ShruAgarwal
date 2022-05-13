@@ -146,9 +146,6 @@
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazonaws&logoColor=232F3E" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Amazon_S3-000000?style=flat&logo=amazons3&logoColor=569A31" />
-</a>
-<a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Gitpod-000000?style=flat&logo=gitpod&logoColor=FFAE33" />
 </a>
 
