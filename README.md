@@ -4,23 +4,25 @@
  <img src="https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge" />
 </p>
 
-<img align="right" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350">
 
-- 🌱 I’m currently learning about Machine Learning.
-- 🐍 Building projects using Python and side-projects using ML
-- 💻 I love exploring new tech stack and building cool stuffs.
-- 🚀 Learning about Open Source and trying to contribute as well!
-- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most.
-
-
-<br clear="right"/>
-
-- 📃 You can find my reading list here ▶ <a href="https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a">
-  <img align="center" src="https://img.icons8.com/nolan/344/notion.png" width="35" >
+ <!--<img align="right" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350">-->
+ 
+ - 🌱 I’m currently learning about Machine Learning.  
+ - 🐍 Building projects using Python and side-projects using ML
+ - 💻 I love exploring new tech stack and building cool stuffs.
+ - 🚀 Learning about Open Source and trying to contribute as well! 
+ - 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
+ 
+ - 📃 You can find my reading list here ▶ <a href="https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a"><img align="center" src="https://img.icons8.com/nolan/344/notion.png" width="35" >
  </a>
  
+ <!--<br clear="right"/>-->
+
  
-<h2 align="center">📬 Connect with me </h2>
+<h2 align="center">📬 Connect with me </h2> 
+<p align="center">
+ <img src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350"/>
+</p>
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
   <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" width="50" />
