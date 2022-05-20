@@ -10,11 +10,17 @@
 - 🐍 Building projects using Python and side-projects using ML
 - 💻 I love exploring new tech stack and building cool stuffs.
 - 🚀 Learning about Open Source and trying to contribute as well!
-- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
+- 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most.
+  
 
 
 <br clear="right"/>
 
+- 📃 You can find my reading list here ▶ <a href="https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a">
+  <img align="center" src="https://img.icons8.com/nolan/344/notion.png" width="35" >
+ </a>
+ 
+ 
 <h2 align="center">📬 Connect with me </h2>
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
@@ -26,8 +32,8 @@
   <a href="https://shru.hashnode.dev/">
   <img align="center" src="https://img.icons8.com/color/344/hashnode.png" width="50" />
  </a>
-  <a href="https://outstanding-wolfberry-904.notion.site/Reading-List-9630a0c535904126b6ca780e45c5532a">
-  <img align="center" src="https://img.icons8.com/nolan/344/notion.png" width="50" />
+  <a href="www.linkedin.com/in/shruti-agarwal-bb7889237">
+  <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" width="50" />
  </a>
 </p>
 
