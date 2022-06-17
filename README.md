@@ -42,17 +42,26 @@
 
 ### ✍ My Articles
 - #1 [Behind the Scenes of a Twitter Bot 🔍](https://shru.hashnode.dev/behind-the-scenes-of-a-twitter-bot)
-
-
+- #2 [Coding challenges are not just 100 days of code!](https://shru.hashnode.dev/coding-challenges-are-not-just-100-days-of-code)
+ 
+   
+  
 ### ⚡ Github 
-<p align="center">
-<a href="https://github.com/ShruAgarwal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
-</a>
-<a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
-</a>
-</p>
+<details> 
+ <summary> 💻 Profile Stats </summary>
+ <br/>
+ <p align="center">
+  <a href="https://github.com/ShruAgarwal/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
+  </a>
+  <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
+  </a>
+ </p>
+ <br/>
+ </details>
+
+
 
 ### 🏫 Learning Platforms
 <a href="https://github.com/ShruAgarwal/img-shields-io">
