@@ -8,7 +8,7 @@
  <!--<img align="right" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350">-->
  
  - 🌱 I’m currently learning about Machine Learning.  
- - 🐍 Building projects using Python and side-projects using ML
+ - 🎈 Building & sharing fun **Streamlit** Apps
  - 💻 I love exploring new tech stack and building cool stuffs.
  - 🚀 Learning about Open Source and trying to contribute as well! 
  - 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
