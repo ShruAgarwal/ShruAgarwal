@@ -49,21 +49,23 @@
 
 
 
- 
    
   
 ### ⚡ Github 
 <details> 
  <summary> 💻 Profile Stats </summary>
  <br/>
- <p align="center">
   <a href="https://github.com/ShruAgarwal/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ShruAgarwal&theme=aura&show_icons=true" />
   </a>
   <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
+   <img style="align:right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
   </a>
- </p>
+  <p align="center">
+  <a href="https://github.com/ShruAgarwal/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShruAgarwal&layout=compact" />
+  </a>
+  </p>
  <br/>
  </details>
 
@@ -110,8 +112,12 @@
   <img align="center" src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Plotly-white?style=flat&logo=plotly&logoColor=3F4F75" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
 </a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
+</a>
+
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 </a>
@@ -156,10 +162,7 @@
   <img align="center" src="https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=43B02A" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
-</a>
-<a href="https://github.com/ShruAgarwal/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
+  <img align="center" src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" />
