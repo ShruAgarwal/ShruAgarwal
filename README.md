@@ -1,11 +1,13 @@
 ## Hi!, I'm Shruti 👋
 <p>
- <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+ <!--<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>-->
  <img src="https://komarev.com/ghpvc/?username=ShruAgarwal&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge" />
 </p>
 
+<a href="https://shrutiagarwal.netlify.app/">
+  <img align="center" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/banner.gif" />
+</a>
 
- <!--<img align="right" src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350">-->
  
  - 🌱 I’m currently learning about Machine Learning.  
  - 🎈 Building & sharing fun **Streamlit** Apps
@@ -63,7 +65,7 @@
   </a>
   <p align="center">
   <a href="https://github.com/ShruAgarwal/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShruAgarwal&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShruAgarwal&layout=compact&theme=radical" />
   </a>
   </p>
  <br/>
@@ -193,4 +195,4 @@
 
 
 ### 📈 Activity Graph 
-[![Shruti's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShruAgarwal&theme=redical)](https://github.com/ShruAgarwal/github-readme-activity-graph)
+[![Shruti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShruAgarwal&theme=chartreuse-dark)](https://github.com/ShruAgarwal/github-readme-activity-graph)
