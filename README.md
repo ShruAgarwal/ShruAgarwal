@@ -9,8 +9,8 @@
 </a>
 
  
- - 🌱 I’m currently learning about Machine Learning.  
- - 🎈 Building & sharing fun **Streamlit** Apps
+ - 🎈 Building & sharing fun **Streamlit** Apps  
+ - 🌱 I’m currently learning about Machine Learning.
  - 💻 I love exploring new tech stack and building cool stuffs.
  - 🚀 Learning about Open Source and trying to contribute as well! 
  - 📚 Reading books on Self-Help, Mythology and Autobiographies is one of the things I enjoy the most. 
@@ -21,10 +21,7 @@
  <!--<br clear="right"/>-->
 
  
-<h2 align="center">📬 Connect with me </h2> 
-<p align="center">
- <img src="https://github.com/ShruAgarwal/ShruAgarwal/blob/main/code.gif" width="350"/>
-</p>
+<h2 align="center">📬 Connect with me </h2>
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
   <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" width="50" />
@@ -114,12 +111,14 @@
   <img align="center" src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/NodeJS-000000?style=flat&logo=nodedotjs&logoColor=339933" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
 </a>
-
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 </a>
@@ -161,7 +160,28 @@
 
 ### 🛠 Tools I've experimented with --
 <a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Flask--000?&style=flat&labelColor=000&logo=flask" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=5C3EE8" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Deepnote-000000?style=flat&logo=deepnote&logoColor=3793EF" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/.ENV-000000?style=flat&logo=dotenv&logoColor=ECD53F" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=43B02A" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=2088FF" />
 </a>
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7" />
