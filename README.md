@@ -21,7 +21,7 @@
  <!--<br clear="right"/>-->
 
  
-<h2 align="center">📬 Connect with me </h2>
+<h2 align="center">🤝 Connect with me </h2>
 <p align="center">
  <a href="https://twitter.com/Shru_explores">
   <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" width="50" />
@@ -38,7 +38,7 @@
 </p>
 
 
-
+---
 ### ✍ My Articles
 - #4 [Building a cartoon-styled video using Python 🐍](https://shru.hashnode.dev/building-a-cartoon-styled-video-using-python)
 - #3 [BEST OF STREAMLIT SERIES ✨](https://shru.hashnode.dev/series/streamlit) -- 👀 Keep an eye here as I will keep adding new articles in this series!
@@ -49,7 +49,7 @@
 
 
    
-  
+ 
 ### ⚡ Github 
 <details> 
  <summary> 💻 Profile Stats </summary>
@@ -60,16 +60,17 @@
   <a href="https://github.com/ShruAgarwal/github-readme-streak-stats">
    <img style="align:right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShruAgarwal&theme=algolia" />
   </a>
-  <p align="center">
+  <!--<p align="center">-->
   <a href="https://github.com/ShruAgarwal/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShruAgarwal&layout=compact&theme=radical" />
   </a>
-  </p>
+  <!--</p>-->
  <br/>
  </details>
 
 
 
+---
 ### 🏫 Learning Platforms
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/freecodecamp-000000?style=flat&logo=freecodecamp&logoColor=white" />
@@ -213,6 +214,15 @@
 </a>
 
 
-
+---
 ### 📈 Activity Graph 
 [![Shruti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShruAgarwal&theme=chartreuse-dark)](https://github.com/ShruAgarwal/github-readme-activity-graph)
+
+<p align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+</p>
